@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ashikur Jaman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurjaman&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurjaman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashikurjaman" alt="ashikurjaman" /></a> </p>
 
-- 🔭 I’m currently working on [LUNETTES](https://lunettes-1e40f.web.app/)
-
-- 🌱 I’m currently learning **Programming Hero course batch-04**
-
-- 👯 I’m looking to collaborate on [TourPlanner](https://tourplanner-cd26e.web.app/home)
 
 - 👨‍💻 All of my projects are available at [https://youthful-euler-06d9bd.netlify.app/](https://youthful-euler-06d9bd.netlify.app/)
 
-- 💬 Ask me about **React ,Javascript ,Css , Html**
+- 💬 Ask me about **Lravel,PHP,Ajax,Bootstrap,Javascript ,Css , Html**
 
 - 📫 How to reach me **ashikurjaman046@gmail.com**
 
