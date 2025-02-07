@@ -5,16 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashikurjaman" alt="ashikurjaman" /></a> </p>
 
-
-- 👨‍💻 All of my projects are available at [https://youthful-euler-06d9bd.netlify.app/](https://youthful-euler-06d9bd.netlify.app/)
-
-- 💬 Ask me about **Lravel,PHP,Ajax,Bootstrap,Javascript ,Css , Html**
+- 💬 Ask me about **Python, Laravel, Node, Express, MongoDB, PHP, Ajax, Bootstrap, Javascript, CSS, Html**
 
 - 📫 How to reach me **ashikurjaman046@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1108BU6UBp4iUzcfwRcnoEQRBULzWHQnV/view?usp=sharing](https://drive.google.com/file/d/1108BU6UBp4iUzcfwRcnoEQRBULzWHQnV/view?usp=sharing)
 
-- ⚡ Fun fact **I think Need learn more about Javascript**
+- ⚡ Fun fact **I think Need to learn more about Javascript and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
